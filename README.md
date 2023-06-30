@@ -1,3 +1,5 @@
+![954496b1-56a2-4c62-917d-c42242a2a94c](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/bf2c735e-5b55-4b98-9f64-2058bf40f5e8)
+
 ### Hi there 👋
 
 ### I am Tasmay Pankaj Tibrewal, Student at IIT Kharagpur
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
