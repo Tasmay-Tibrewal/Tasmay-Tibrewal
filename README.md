@@ -1,4 +1,4 @@
-![954496b1-56a2-4c62-917d-c42242a2a94c](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/bf2c735e-5b55-4b98-9f64-2058bf40f5e8)
+![2_954496b1-56a2-4c62-917d-c42242a2a94c](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/b9c86651-e31c-4a61-a50b-80411231f27a)
 
 ### Hi there 👋
 
