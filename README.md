@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hey 👋, &nbsp;I am Tasmay</h1> 
 
 
-<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '450' height = '450'>
+<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '400' height = '450'>
 
 <br>&emsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey👋,+I'm+Tasmay+Pankaj+Tibrewal;1st+yr+UG+Student+at+IIT+Kharagpur;Pursuing+Manufacturing+Engineering;Currently+Learning;Image+Processing,+ML,+AI)](https://git.io/typing-svg)
 <!--
