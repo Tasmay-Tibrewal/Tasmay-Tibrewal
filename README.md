@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hey 👋, &nbsp;I am Tasmay</h1> 
 
 
-<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '400' height = '580'>
+<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250222453-dc9f7e0a-8372-4449-87c9-73f488def253.gif' width = '400' height = '580'>
 
 <br>&emsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey👋,+I'm+Tasmay+Pankaj+Tibrewal;1st+yr+UG+Student+at+IIT+Kharagpur;Pursuing+Manufacturing+Engineering;Currently+Learning;Image+Processing,+ML,+AI)](https://git.io/typing-svg)
 <!--
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -![css-logo](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/b2935bd6-fb28-44bf-b520-88e60e38c2e6)
 ![1200px-C_Programming_Language svg](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/7359d945-e5fe-4cda-9a83-1b8433ff5f9c)
 ![download](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/1304b531-1627-46a7-a0cb-adf99b3657ed)
+![output-onlinegiftools4](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/dc9f7e0a-8372-4449-87c9-73f488def253)
 
 -->
 - 🔭 I’m currently working on <b>ML Projects</b>
