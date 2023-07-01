@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hey 👋, &nbsp;I am Tasmay</h1> 
 
 
-<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '400' height = '500'>
+<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '400' height = '580'>
 
 <br>&emsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey👋,+I'm+Tasmay+Pankaj+Tibrewal;1st+yr+UG+Student+at+IIT+Kharagpur;Pursuing+Manufacturing+Engineering;Currently+Learning;Image+Processing,+ML,+AI)](https://git.io/typing-svg)
 <!--
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 &nbsp;<a href = "https://www.linkedin.com/in/tasmay-pankaj-tibrewal-17ab26250/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218339-89ac98b7-fa19-44d0-a9a4-12e6bf395db1.png" alt="Linkedin" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.instagram.com/dark_o_ether/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218749-5846c805-489a-40b9-80ed-5937deebf256.png" alt="Instagram" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100087979943376" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218757-1ed70945-1eb7-4c33-978a-5bff4ba597ec.png" alt="Linkedin" width="23" height="23"/> </a>
-- ⭐ I know these Languages & Tools :<br>
+- ⭐ I know these Languages & Tools :<br><br>
 &nbsp;<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> </a>
 &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250221257-7359d945-e5fe-4cda-9a83-1b8433ff5f9c.png" alt="c" width="26" height="26"/> </a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220969-b2935bd6-fb28-44bf-b520-88e60e38c2e6.png" alt="css3" width="30" height="30"/> </a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 &nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220959-474b3ee8-d4c6-46cf-8a3a-44ba20f7c65e.jpg" alt="java" width="27" height="27"/> </a>
 &nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220963-ca68cab8-b5db-4a5c-9e9d-6b80d5b13763.png" alt="mysql" width="27" height="27"/> </a>
 &nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250221545-1304b531-1627-46a7-a0cb-adf99b3657ed.png" alt="pandas" width="27" height="27"/> </a>
-&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220965-9661fa10-aba7-49c6-b074-d9ab2857678f.png" alt="python" width="26" height="26"/> </a>
+&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220965-9661fa10-aba7-49c6-b074-d9ab2857678f.png" alt="python" width="26" height="26"/> </a><br><br>
 - 📖 I'm learning these Tools :
 &nbsp;<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="25" height="25"/> </a>
 &nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="25"/> </a>
