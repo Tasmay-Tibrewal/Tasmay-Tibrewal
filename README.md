@@ -8,9 +8,7 @@
 **Tasmay-Tibrewal/Tasmay-Tibrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
-
-
-![output-onlinegiftools3](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/e43c509a-19c0-4e64-8a28-ef5113560261)
+![linkdn-icon](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/89ac98b7-fa19-44d0-a9a4-12e6bf395db1)
 
 -->
 
@@ -24,5 +22,5 @@ Here are some ideas to get you started:
   &emsp;&emsp;<b>🌏Geopolitics<br>
   &emsp;&emsp;🤖Robotics<br>
   &emsp;&emsp;🚀Asrronomy</b>
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+- 🔌Connect with me :
+<a href="https://www.linkedin.com/in/tasmay-pankaj-tibrewal-17ab26250/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218339-89ac98b7-fa19-44d0-a9a4-12e6bf395db1.png" alt="Linkedin" width="20" height="20"/> </a>
