@@ -1,19 +1,26 @@
-![2_954496b1-56a2-4c62-917d-c42242a2a94c](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/b9c86651-e31c-4a61-a50b-80411231f27a)
+<h1 align = 'center'>Hey there 👋, I am Tasmay</h1> 
 
-### Hi there 👋
 
-### I am Tasmay Pankaj Tibrewal, Student at IIT Kharagpur
+<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '450'>
+
+#### I am Tasmay Pankaj Tibrewal, 1st year Undergraduate Student at IIT Kharagpur
 <!--
 **Tasmay-Tibrewal/Tasmay-Tibrewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+
+
+![output-onlinegiftools3](https://github.com/Tasmay-Tibrewal/Tasmay-Tibrewal/assets/85983760/e43c509a-19c0-4e64-8a28-ef5113560261)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 Ho!
+w to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
