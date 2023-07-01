@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hey 👋, &nbsp;I am Tasmay</h1> 
 
 
-<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '385' height = '500'>
+<img align = 'right' src = 'https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250214716-e43c509a-19c0-4e64-8a28-ef5113560261.gif' width = '400' height = '500'>
 
 <br>&emsp;[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey👋,+I'm+Tasmay+Pankaj+Tibrewal;1st+yr+UG+Student+at+IIT+Kharagpur;Pursuing+Manufacturing+Engineering;Currently+Learning;Image+Processing,+ML,+AI)](https://git.io/typing-svg)
 <!--
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 &nbsp;<a href = "https://www.linkedin.com/in/tasmay-pankaj-tibrewal-17ab26250/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218339-89ac98b7-fa19-44d0-a9a4-12e6bf395db1.png" alt="Linkedin" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.instagram.com/dark_o_ether/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218749-5846c805-489a-40b9-80ed-5937deebf256.png" alt="Instagram" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100087979943376" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218757-1ed70945-1eb7-4c33-978a-5bff4ba597ec.png" alt="Linkedin" width="23" height="23"/> </a>
-- ⭐ I know these Languages & Tools :
+- ⭐ I know these Languages & Tools :<br>
 &nbsp;<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="26" height="26"/> </a>
 &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250221257-7359d945-e5fe-4cda-9a83-1b8433ff5f9c.png" alt="c" width="26" height="26"/> </a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250220969-b2935bd6-fb28-44bf-b520-88e60e38c2e6.png" alt="css3" width="30" height="30"/> </a>
