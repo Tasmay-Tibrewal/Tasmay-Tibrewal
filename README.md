@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   &emsp;&emsp;🤖Robotics<br>
   &emsp;&emsp;🚀Astronomy</b>
 - 🔌Connect with me on :
-&nbsp;<a href = "https://www.linkedin.com/in/tasmay-pankaj-tibrewal-17ab26250/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218339-89ac98b7-fa19-44d0-a9a4-12e6bf395db1.png" alt="Linkedin" width="20" height="20"/> </a>
+&nbsp;<a href = "https://www.linkedin.com/in/tasmay-tibrewal/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218339-89ac98b7-fa19-44d0-a9a4-12e6bf395db1.png" alt="Linkedin" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.instagram.com/dark_o_ether/" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218749-5846c805-489a-40b9-80ed-5937deebf256.png" alt="Instagram" width="20" height="20"/> </a>
 &nbsp;<a href = "https://www.facebook.com/profile.php?id=100087979943376" target="_blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85983760/250218757-1ed70945-1eb7-4c33-978a-5bff4ba597ec.png" alt="Linkedin" width="23" height="23"/> </a>
 - ⭐ I know these Languages & Tools :<br><br>
